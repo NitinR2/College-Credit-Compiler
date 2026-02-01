@@ -1,0 +1,5 @@
+{
+  "name": "College Credit Compiler",
+  "description": "An AI agent that analyzes high school activities and AP scores to estimate college credits at specific universities.",
+  "requestFramePermissions": []
+}
